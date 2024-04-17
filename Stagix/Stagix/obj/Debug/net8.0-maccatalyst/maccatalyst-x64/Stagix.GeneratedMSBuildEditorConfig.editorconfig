@@ -1,0 +1,59 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Stagix
+build_property.ProjectDir = C:\Users\mathi\OneDrive\Bureau\sara\Stagix\Stagix\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/mathi/OneDrive/Bureau/sara/Stagix/Stagix/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Stagix.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/mathi/OneDrive/Bureau/sara/Stagix/Stagix/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Stagix.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/mathi/OneDrive/Bureau/sara/Stagix/Stagix/Resources/Pages/Login.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Stagix.Resources.Pages.Login.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Pages\Login.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Pages\Login.xaml
+
+[C:/Users/mathi/OneDrive/Bureau/sara/Stagix/Stagix/Resources/Pages/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Stagix.Resources.Pages.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Pages\MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Pages\MainPage.xaml
+
+[C:/Users/mathi/OneDrive/Bureau/sara/Stagix/Stagix/Resources/Pages/Stages.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Stagix.Resources.Pages.Stages.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Pages\Stages.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Pages\Stages.xaml
+
+[C:/Users/mathi/OneDrive/Bureau/sara/Stagix/Stagix/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Stagix.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/mathi/OneDrive/Bureau/sara/Stagix/Stagix/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Stagix.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

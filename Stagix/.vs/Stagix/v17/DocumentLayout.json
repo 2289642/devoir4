@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2060485\\OneDrive - C\u00E9gep Marie-Victorin\\Desktop\\git2\\Stagix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5422D7AE-C527-4E95-A896-0FB419C2F4FC}|Stagix\\Stagix.csproj|c:\\users\\2060485\\onedrive - c\u00E9gep marie-victorin\\desktop\\git2\\stagix\\stagix\\resources\\pages\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5422D7AE-C527-4E95-A896-0FB419C2F4FC}|Stagix\\Stagix.csproj|solutionrelative:stagix\\resources\\pages\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5422D7AE-C527-4E95-A896-0FB419C2F4FC}|Stagix\\Stagix.csproj|c:\\users\\2060485\\onedrive - c\u00E9gep marie-victorin\\desktop\\git2\\stagix\\stagix\\resources\\pages\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5422D7AE-C527-4E95-A896-0FB419C2F4FC}|Stagix\\Stagix.csproj|solutionrelative:stagix\\resources\\pages\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5422D7AE-C527-4E95-A896-0FB419C2F4FC}|Stagix\\Stagix.csproj|c:\\users\\2060485\\onedrive - c\u00E9gep marie-victorin\\desktop\\git2\\stagix\\stagix\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5422D7AE-C527-4E95-A896-0FB419C2F4FC}|Stagix\\Stagix.csproj|solutionrelative:stagix\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\2060485\\OneDrive - C\u00E9gep Marie-Victorin\\Desktop\\git2\\Stagix\\Stagix\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Stagix\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\2060485\\OneDrive - C\u00E9gep Marie-Victorin\\Desktop\\git2\\Stagix\\Stagix\\Models\\Person.cs",
+              "RelativeToolTip": "Stagix\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T21:47:38.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\2060485\\OneDrive - C\u00E9gep Marie-Victorin\\Desktop\\git2\\Stagix\\Stagix\\Resources\\Pages\\Login.xaml",
+              "RelativeDocumentMoniker": "Stagix\\Resources\\Pages\\Login.xaml",
+              "ToolTip": "C:\\Users\\2060485\\OneDrive - C\u00E9gep Marie-Victorin\\Desktop\\git2\\Stagix\\Stagix\\Resources\\Pages\\Login.xaml",
+              "RelativeToolTip": "Stagix\\Resources\\Pages\\Login.xaml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-25T21:39:22.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\2060485\\OneDrive - C\u00E9gep Marie-Victorin\\Desktop\\git2\\Stagix\\Stagix\\Resources\\Pages\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "Stagix\\Resources\\Pages\\Login.xaml.cs",
+              "ToolTip": "C:\\Users\\2060485\\OneDrive - C\u00E9gep Marie-Victorin\\Desktop\\git2\\Stagix\\Stagix\\Resources\\Pages\\Login.xaml.cs",
+              "RelativeToolTip": "Stagix\\Resources\\Pages\\Login.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T21:18:30.411Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Stagix.Resources.Pages.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+            <Image
+                Source="stagix.png"
+                HeightRequest="185"
+                Aspect="AspectFit"
+                SemanticProperties.Description="dot net bot in a race car number eight" />
+
+            <Label
+                Text="Bienvenue sur Stagix!"
+                Style="{StaticResource Headline}"
+                SemanticProperties.HeadingLevel="Level1" />
+
+            <Label
+                Text="Stagix est un service d'aide qui vous permettra de postuler dans divers stages selon votre programme et vos préférence."
+                Style="{StaticResource SubHeadline}"
+                SemanticProperties.HeadingLevel="Level2"
+                SemanticProperties.Description="Welcome to dot net Multi platform App U I" />
+
+            <Label
+                Text="Collège Marie-Victorin"
+                Style="{StaticResource SubHeadline}"
+                SemanticProperties.HeadingLevel="Level3"
+                SemanticProperties.Description="Welcome to dot net Multi platform App U I" />
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
